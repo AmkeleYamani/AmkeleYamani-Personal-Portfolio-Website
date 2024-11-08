@@ -10,7 +10,7 @@
     color: #FAFAFA;
     background-color: #000;  /* Sets the base background to black */
   }
-   
+
   #home {
     background-image: url('../Images/backgroundWebsite.jpeg');  
     background-size:100% 100%;       /* Ensures the image covers the entire section */
@@ -120,6 +120,7 @@
     color: #000;
     background-size: 100px;
     position:fixed;
+    display: flex;
   }
    
   #contact {
@@ -183,7 +184,7 @@
   }
    
   /* Footer Styling */
-  /* Footer Styling */
+  
   .footer {
     background: #C0C0C0;  /* Silver-gray background */
     color: #000000;       /* Black text for contrast */
@@ -228,6 +229,11 @@
    
   .footer-links a:hover {
     color: #666666;  /* Darker gray on hover */
+  }
+
+  .Copyrights {
+    font-size: 300px;
+    margin-top: 20px;
   }
    
    
