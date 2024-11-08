@@ -189,7 +189,7 @@
     background: #C0C0C0;  /* Silver-gray background */
     color: #000000;       /* Black text for contrast */
     padding: 2rem 1rem;
-    text-align: left;
+    text-align: center;
   }
    
   .footer-container {
@@ -231,9 +231,10 @@
     color: #666666;  /* Darker gray on hover */
   }
 
-  .Copyrights {
+  .Copyrights  {
     font-size: 300px;
     margin-top: 20px;
+    text-align: center;
   }
    
    
